@@ -1,0 +1,4 @@
+// The program input for quiz_token/src/main.leo
+[mint]
+owner: address = aleo1xvlh6eyf5lgfv2z5za47j6qkh3uv5e0ga6gdzg5l4rssheymxsqqsnkgc4;
+amount: u64 = 100u64;

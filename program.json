@@ -1,0 +1,10 @@
+{
+    "program": "quiz_token.aleo",
+    "version": "0.1",
+    "description": "Token Storage for quiz.aleo.build",
+    "development": {
+        "private_key": "APrivateKey1zkp9xh6rBK2sA69u66mMvxweBdV8o6GgdYGiJcJcBkbEwiW",
+        "address": "aleo109ferl3hff9v79gkxj4qsxpaaeet48q6u5slphjlc7rr2f0asvqswpthhg"
+    },
+    "license": "MIT"
+}
